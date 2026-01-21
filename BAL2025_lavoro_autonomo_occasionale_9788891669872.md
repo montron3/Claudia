@@ -1,6 +1,5 @@
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
@@ -22,13 +21,11 @@ Aggiornato alla circolare INPS n. 27/2025
 • Obblighi di comunicazione  
 • Copertura previdenziale 
 • Prestazioni garantite dalla Gestione Separata 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
@@ -57,7 +54,6 @@ ISBN: 9788891669872
 Luglio 2025 
 © Copyright 2024 by Maggioli 
 www.fiscoetasse.com 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
@@ -97,15 +93,14 @@ Premessa........................................................................
 2.2 Sanzioni.............................................................................................................................. 42 
 2.3 Sospensione ........................................................................................................................ 43 
 2.4 Organi competenti................................................................................................................ 44 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            6  
+ 
+                                                                                            6  
  
 2.5 Effetti della sospensione........................................................................................................ 45 
 2.6 Revoca ............................................................................................................................... 45 
@@ -141,15 +136,14 @@ E Book – Collana I PRATICI di Fiscoetasse                                     
 4.1 Indennità di malattia ............................................................................................................ 64 
 4.1.1 Requisiti ....................................................................................................................... 65 
 4.1.2 Limiti di durata .............................................................................................................. 65 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            7  
+ 
+                                                                                            7  
  
 4.1.3 Giornate indennizzabili .................................................................................................... 65 
 4.1.4 Misura .......................................................................................................................... 66 
@@ -185,15 +179,14 @@ E Book – Collana I PRATICI di Fiscoetasse                                     
 4.4.2 Nove mesi..................................................................................................................... 80 
 4.4.3 Condizioni ..................................................................................................................... 81 
 4.4.4 Contribuzione figurativa .................................................................................................. 82 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            8  
+ 
+                                                                                            8  
  
 5. Redditi diversi ....................................................................................................................... 83 
 5.1 Ritenuta d’acconto ............................................................................................................... 84 
@@ -223,7 +216,6 @@ E Book – Collana I PRATICI di Fiscoetasse                                     
 7.2.7 Quadro SX .................................................................................................................... 97 
 7.2.8 Quadro SY .................................................................................................................... 97 
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
@@ -261,15 +253,14 @@ incaricato, di porre in essere un rapporto di lavoro autonomo occasionale genuin
 Il legislatore non ha tuttavia lasciato il rapporto occasionale completamente privo di tutele. Qui, arrivando al 
 terzo aspetto meritevole di attenzione, possiamo citare la riforma del cosiddetto “Jobs Act autonomi” (articoli 
 1 – 17 della Legge n. 81/2017), le prestazioni garantite dalla Gestione Separata INPS rappresentate da Assegno 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            10  
+ 
+                                                                                            10  
  
 per il nucleo familiare, malattia e maternità, sino ad arrivare alla recente novità del cosiddetto Decreto 
 “Fiscale” di comunicare l’attività resa dai lavoratori autonomi occasionali alla stregua di quanto 
@@ -294,7 +285,6 @@ rispetto al lavoro autonomo occasionale.
  
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
@@ -339,15 +329,14 @@ Completa autonomia del lavoratore “circa il tempo ed il modo della prestazione
 Tra i casi tipici di prestazione occasionale possiamo annoverare il lavoratore dipendente incaricato di creare la 
 pagina internet ed i profili sui social network di una azienda terza, pur non essendo questa la sua professione 
 abituale e nemmeno la società committente il suo datore di lavoro. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            12  
+ 
+                                                                                            12  
  
 In questo esempio troviamo: 
 • 
@@ -387,15 +376,14 @@ potere direttivo, organizzativo e disciplinare del datore di lavoro, da ricercar
 esclusivamente compiuto sulle concrete modalità di svolgimento della prestazione lavorativa”. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            13  
+ 
+                                                                                            13  
  
 Al contrario, il lavoratore autonomo si impegna a realizzare con: 
 • 
@@ -433,15 +421,14 @@ modificare singole sue clausole e talora la stessa natura del rapporto lavorativ
 autonoma a subordinata”. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            14  
+ 
+                                                                                            14  
  
 In secondo luogo rilevano, quali indicatori di una condizione di subordinazione: 
 • 
@@ -482,15 +469,14 @@ carattere episodico della stessa.
  
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            15  
+ 
+                                                                                            15  
  
 1.2.1 IVA 
 Si citano in particolare il Decreto del Presidente della Repubblica del 26 ottobre 1972 numero 633 con cui si è 
@@ -523,15 +509,14 @@ attività di lavoro autonomo non esercitate abitualmente o dalla assunzione di o
 permettere”. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            16  
+ 
+                                                                                            16  
  
 1.2.3 Gestione Separata 
 In campo previdenziale, la gestione e la qualificazione del rapporto di lavoro autonomo occasionale è contenuta 
@@ -570,15 +555,14 @@ la definizione dei tempi di lavoro e delle modalità di esecuzione è rimessa al
 Collaborazione, da intendersi quale svolgimento di un’attività finalizzata al raggiungimento di scopi 
 determinati da altri (in base alle esigenze organizzative e finalità del committente) con totale 
 autonomia del prestatore nella scelta delle modalità di svolgimento della prestazione; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            17  
+ 
+                                                                                            17  
  
 • 
 Coordinamento, dal momento che il committente può fornire direttive al collaboratore, nei limiti 
@@ -619,15 +603,14 @@ Percettori di prestazioni integrative del salario o di altre prestazioni di sost
 L’utilizzatore può avvalersi di qualsiasi soggetto per lo svolgimento di prestazioni di lavoro occasionali (eccezion 
 fatta per il settore dell’agricoltura, le aziende alberghiere e le strutture ricettive che operano nel settore 
 turismo) eccezion fatta (articolo 54-bis comma 5) per i “soggetti con i quali l’utilizzatore abbia in corso o abbia 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            18  
+ 
+                                                                                            18  
  
 cessato da meno di sei mesi un rapporto di lavoro subordinato o di collaborazione coordinata e continuativa”, 
 pena la conversione (sin dall’inizio) del rapporto in lavoro a tempo pieno ed indeterminato, qualora ne sia 
@@ -671,15 +654,14 @@ lavorazione di materiale lapideo, del settore delle miniere, cave e torbiere.
 • 
 Al prestatore di registrarsi (in autonomia o tramite un intermediario delegato / ente di patronato) 
 all’apposita piattaforma disponibile sul portale “inps.it – Prestazioni e Servizi – Prestazioni – Contratto 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            19  
+ 
+                                                                                            19  
  
 di prestazione occasionale” oltre ad indicare l’iban su cui ricevere l’accredito delle competenze o, in 
 alternativa, optare per il bonifico domiciliato presso l’ufficio postale; 
@@ -724,15 +706,14 @@ Rispetto al compenso minimo di 9 euro netti all’ora, è necessario aggiungere:
 Euro 2,97 a titolo di contributi INPS (carico utilizzatore) pari al 33% del compenso; 
 • 
 Euro 0,32 a titolo di contributi INAIL (carico utilizzatore) equivalenti al 3,5% del compenso; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            20  
+ 
+                                                                                            20  
  
 • 
 Euro 0,12 a titolo di oneri di gestione (carico utilizzatore) equivalenti all’1% del compenso; 
@@ -771,15 +752,14 @@ Al di fuori dell’esercizio di un’impresa o di una professione, i privati pos
 utilizzando il cosiddetto “Libretto Famiglia” INPS. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            21  
+ 
+                                                                                            21  
  
 Le attività ammesse riguardano: 
 • 
@@ -820,15 +800,14 @@ stata pubblicata la Legge 29 dicembre 2022 numero 197 contenente il “Bilancio 
 l’anno finanziario 2023 e bilancio pluriennale per il triennio 2023 – 2025”.  
 La norma, tra le altre cose, interviene all’articolo 1, commi dal 342 al 354, modificando la disciplina in materia 
 di prestazioni occasionali, definita dall’articolo 54-bis, Decreto – legge 24 aprile 2017 numero 50, convertito, 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            22  
+ 
+                                                                                            22  
  
 con modificazioni, dalla Legge 21 giugno 2017 numero 96. Sulle novità della manovra sono arrivati i primi 
 chiarimenti da parte dell'Inps con la Circolare del 19 gennaio 2023 numero 6. 
@@ -864,15 +843,14 @@ Ne consegue che i limiti di compenso complessivo, riferiti a ciascun prestatore,
 sono sempre da considerare in base al valore nominale.  
 Al contrario l’utilizzatore, ai fini del rispetto del limite economico di 10 mila euro, potrà computare nella misura 
 del 75% i compensi erogati a favore dei lavoratori appartenenti alle categorie sopra citate. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            23  
+ 
+                                                                                            23  
  
 1.5.2 Cambia il limite dimensionale per imprese e professionisti 
 L’articolo 1, comma 342, lettera d), punto 1) modifica il limite dimensionale per imprese e professionisti che 
@@ -904,15 +882,14 @@ descritta nei commi dal 344 al 354.
 Nello specifico, a partire dal 2023, le aziende del settore agricolo, qualora abbiano alle proprie dipendenze fino 
 a dieci lavoratori subordinati a tempo indeterminato, potranno utilizzare prestazioni occasionali per un periodo 
 non superiore a quarantacinque giorni, per ciascun lavoratore, nel corso dell’anno solare.  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            24  
+ 
+                                                                                            24  
  
 Il contratto in parola può coinvolgere:  
 • 
@@ -956,15 +933,14 @@ Il riferimento all’imprenditore agricolo presente nel comma 17, lettera d), pe
 di imprenditore agricolo (resta comunque fermo l’obbligo di comunicazione preventiva); 
 2) L’imprenditore agricolo non deve più precisare nella comunicazione obbligatoria di 
 rispettare il particolare regime dei compensi riservato al settore agricolo; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            25  
+ 
+                                                                                            25  
  
 • 
 Il comma 8-bis, riguardante l’obbligo per il prestatore di autocertificare, nella piattaforma telematica 
@@ -998,15 +974,14 @@ Il compenso dev’essere liquidato direttamente dal datore di lavoro, a mezzo st
 (ai sensi dell’articolo 1, commi da 910 a 913, della Legge 27 dicembre 2017 numero 205), quali: 
 • 
 Bonifico sul conto identificato dal codice Iban indicato dal lavoratore; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            26  
+ 
+                                                                                            26  
  
 • 
 Strumenti di pagamento elettronico (inclusa la carta di credito prepagata intestata al lavoratore, anche 
@@ -1042,15 +1017,14 @@ della previdenziale sociale e dall’Istituto nazionale per l’assicurazione co
 tra loro” (articolo 1, comma 352).  
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            27  
+ 
+                                                                                            27  
  
 Da ultimo, la Manovra 2023 prevede, in caso di:  
 • 
@@ -1086,15 +1060,14 @@ Successivamente, l’oggetto avrà come dicitura: “Lettera di incarico per lav
 dell’articolo 2222 Codice Civile”. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            28  
+ 
+                                                                                            28  
  
 Il corpo del documento conterrà: 
 • 
@@ -1134,15 +1107,14 @@ Dati del Committente
 Dati del Lavoratore 
 Oggetto: Lettera di incarico per lavoro autonomo occasionale ai sensi dell’articolo 2222 Codice Civile. 
 Con la presente Le comunichiamo che a seguito delle intese intercorse ed ai sensi dell’articolo 2222 Codice 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            29  
+ 
+                                                                                            29  
  
 Civile Lei si impegna a svolgere la seguente attività _______________ in modo occasionale ed autonomo, 
 senza alcun assoggettamento al potere gerarchico, direttivo e disciplinare esercitato dallo / dalla Scrivente 
@@ -1173,15 +1145,14 @@ L’articolo 1 comma 910 della Legge 27 dicembre 2017 numero 205 contenente il �
 Stato per l’anno finanziario 2018 e bilancio pluriennale per il triennio 2018-2020” ha previsto a far data dal 1° 
 luglio 2018 l’obbligo per datori di lavoro e committenti di corrispondere la retribuzione, nonché ogni anticipo 
 di essa, attraverso “una banca o un ufficio postale con uno dei seguenti mezzi”: 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            30  
+ 
+                                                                                            30  
  
 • 
 Bonifico sul conto identificato dal codice IBAN indicato dal lavoratore; 
@@ -1220,15 +1191,14 @@ numero 205.
  
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            31  
+ 
+                                                                                            31  
  
 1.8 Nota di pagamento 
 L’erogazione del compenso per la prestazione di lavoro autonomo occasionale avviene di norma, nel rispetto 
@@ -1268,15 +1238,14 @@ Compenso lordo (A)
  
  
 ______________ 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            32  
+ 
+                                                                                            32  
  
 Ritenuta d’acconto 20% (B) 
  
@@ -1314,15 +1283,14 @@ Sono al contrario esclusi dall’ambito di applicazione del “Jobs Act autonomi
 particolare a: 
 • 
 Imprenditori; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            33  
+ 
+                                                                                            33  
  
 • 
 “Piccoli imprenditori” quali coltivatori diretti, artigiani, piccoli commercianti nonché coloro che 
@@ -1358,15 +1326,14 @@ Non abbiano concordato alcun termine;
 • 
 In alternativa non rispettino il termine previsto; 
 è applicata una scadenza di 30 giorni entro la quale il committente è tenuto a corrispondere il compenso. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            34  
+ 
+                                                                                            34  
  
 Trascorsi i 30 giorni decorrono gli interessi moratori, senza necessità di procedere alla costituzione in mora. 
 Il termine in questione decorre da: 
@@ -1401,21 +1368,19 @@ sostituzione delle lavoratrici autonome “da parte di altri lavoratori autonomi
 in possesso dei necessari requisiti professionali, nonché dei soci, anche attraverso il riconoscimento di forme 
 di compresenza della lavoratrice e del suo sostituto”. 
 È altresì riconosciuta (articolo 14 comma 3) in caso di malattia o infortunio di gravità “tale da impedire lo 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            35  
+ 
+                                                                                            35  
  
 svolgimento dell’attività lavorativa oltre sessanta giorni” la sospensione del versamento dei “contributi 
 previdenziali e dei premi assicurativi” per l’intera durata dell’evento fino ad un massimo di due anni. 
 Decorso il periodo sopra citato il lavoratore “è tenuto a versare i contributi e i premi maturati durante il periodo 
 di sospensione in un numero di rate mensili pari a tre volte i mesi di sospensione”. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
@@ -1451,15 +1416,14 @@ Nel documento l'INL rende noto che, essendo l'obbligo in questione "previsto all
 materia di sospensione dell'attività imprenditoriale di cui all'art. 14 D.Lgs. n. 81/2008", sono tenuti ad inviare 
 la comunicazione i soli committenti che operano come imprenditori.  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            37  
+ 
+                                                                                            37  
  
 Sempre l'Ispettorato afferma che la novità riguarda i soli lavoratori autonomi occasionali inquadrabili nella 
 definizione contenuta all'articolo 2222 Codice Civile con esclusione pertanto di: 
@@ -1499,38 +1463,35 @@ Ulteriori chiarimenti dell’Ispettorato sono riportati nella Nota del 27 gennai
 10 FAQ. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            38  
+ 
+                                                                                            38  
  
 Nota Ispettorato Nazionale del Lavoro 27 gennaio 2022 numero 109  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            39  
+ 
+                                                                                            39  
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            40  
+ 
+                                                                                            40  
  
  
 La successiva Nota INL del 28 marzo 2022 numero 573 ha disposto la fine del periodo transitorio, inaugurato 
@@ -1549,15 +1510,14 @@ comunicazione in questione anche a mezzo mail”. Tuttavia, a decorrere dal 1° 
 valido per assolvere a tale obbligo sarà quello telematico messo a disposizione dal Ministero del lavoro e delle 
 politiche sociali e non saranno ritenute valide – e pertanto sanzionabili – le comunicazioni effettuate a mezzo 
 e-mail direttamente alle sedi degli Ispettorati territoriali del lavoro”. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            41  
+ 
+                                                                                            41  
  
 In ogni caso, ha affermato la successiva Nota dell’Ispettorato del 22 aprile 2022 numero 881, al fine di 
 salvaguardare la possibilità di adempiere all'obbligo di legge anche in caso di malfunzionamento del sistema o 
@@ -1594,15 +1554,14 @@ I dati identificativi del datore di lavoro e del lavoratore;
 La data di inizio e fine della prestazione lavorativa cui la chiamata si riferisce. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            42  
+ 
+                                                                                            42  
  
 I canali di invio della comunicazione comprendono: 
 • 
@@ -1642,15 +1601,14 @@ dell'attività.
 2.2 Sanzioni 
 Come in parte anticipato l’omessa segnalazione delle prestazioni rese dai lavoratori autonomi occasionali 
 comporta l’applicazione di una sanzione amministrativa “da euro 500 a euro 2.500 in relazione a ciascun 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            43  
+ 
+                                                                                            43  
  
 lavoratore autonomo occasionale per cui è stata omessa o ritardata la comunicazione”.  
 Non si considera omessa, chiarisce l'INL, la comunicazione che contiene errori tali da non compromettere la 
@@ -1686,15 +1644,14 @@ Attività lavorativa prestata dai soggetti che non hanno ricevuto idonea formazi
 ovvero che non sono stati dotati dei DPI contro le cadute dall’alto. 
 Oltre al provvedimento di sospensione, l’INL può adottare misure specifiche idonee a far cessare il pericolo 
 per la sicurezza e la salute dei lavoratori. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            44  
+ 
+                                                                                            44  
  
 Ai sensi dell’articolo 14 comma 4 gli effetti della sospensione “possono essere fatti decorrere dalle ore dodici 
 del giorno lavorativo successivo ovvero dalla cessazione dell’attività lavorativa in corso che non può essere 
@@ -1731,15 +1688,14 @@ prevenzione incendi.
  
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            45  
+ 
+                                                                                            45  
  
 2.5 Effetti della sospensione 
 Per l’intero periodo oggetto di sospensione il datore di lavoro è comunque tenuto a: 
@@ -1780,15 +1736,14 @@ nello stesso Allegato I con riferimento a ciascuna fattispecie”.
 Le somme aggiuntive sono raddoppiate qualora “nei cinque anni precedenti alla adozione del provvedimento, 
 la medesima impresa sia stata destinataria di un provvedimento di sospensione”. 
 Su istanza di parte (comma 11) è altresì possibile ottenere la revoca del provvedimento, fermo restando il 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            46  
+ 
+                                                                                            46  
  
 rispetto delle condizioni sopra citate, dietro pagamento del “venti per cento della somma aggiuntiva dovuta”. 
 La somma residua, maggiorata del 5%, è versata “entro sei mesi dalla data di presentazione dell’istanza di 
@@ -1823,15 +1778,14 @@ Il riferimento è ai lavoratori autonomi occasionali per i quali il committente 
 di comunicazione preventiva all’Ispettorato territoriale del lavoro, previsto sempre dal nuovo articolo 14 del 
 Testo unico, a mezzo SMS o posta elettronica secondo le modalità definite in materia di lavoro intermittente. 
 La percentuale del 10% dev’essere individuata rispetto al totale dei soggetti presenti sul luogo di lavoro al 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            47  
+ 
+                                                                                            47  
  
 momento dell’accesso ispettivo, ottenuto sommando: 
 • 
@@ -1878,15 +1832,14 @@ proteggere i lavoratori dai conseguenti rischi;
 • 
 Presenza di conduttori nudi in tensione in assenza di disposizioni organizzative e procedurali idonee a 
 proteggere i lavoratori dai conseguenti rischi; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            48  
+ 
+                                                                                            48  
  
 • 
 Mancanza di protezione contro i contatti diretti ed indiretti (impianto di terra, interruttore 
@@ -1895,7 +1848,6 @@ magnetotermico, interruttore differenziale);
 Omessa vigilanza in ordine alla rimozione o modifica dei dispositivi di sicurezza o di segnalazione o di 
 controllo. 
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
@@ -1933,15 +1885,14 @@ Dal punto di vista prettamente quantitativo, invece, ai fini del superamento del
 (sempre la Circolare INPS) le somme percepite “a fronte di un unico o di una pluralità di rapporti”. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            50  
+ 
+                                                                                            50  
  
 Da quanto appena citato discendono gli obblighi, in capo al lavoratore di: 
 • 
@@ -1976,15 +1927,14 @@ L’iscrizione avviene dietro domanda telematica inoltrata collegandosi al porta
 – Domanda di iscrizione alla Gestione Separata”, per gli utenti dotati delle credenziali SPID, CIE o CNS. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            51  
+ 
+                                                                                            51  
  
 In alternativa è possibile: 
 • 
@@ -2020,15 +1970,14 @@ con l’Istituto di:
 Visualizzare i dettagli anagrafici dell’azienda e quelli contributivi dei lavoratori autonomi; 
 • 
 Visualizzare le denunce UniEmens inviate; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            52  
+ 
+                                                                                            52  
  
 • 
 Comunicare direttamente con gli operatori INPS al fine di gestire eventuali irregolarità o scoperture 
@@ -2064,15 +2013,14 @@ lavoratore (pari all’11,24%) ed i 2/3 restanti (22,48%) in capo al committente
 A differenza dei collaboratori coordinati e continuativi, per i lavoratori autonomi occasionali non è prevista 
 alcuna aliquota (pari all’1,31%) a finanziamento dell’indennità di disoccupazione DIS-COLL. 
 [ALLEGATO “CIRCOLARE INPS 30 GENNAIO 2025 NUMERO 27”]  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            53  
+ 
+                                                                                            53  
  
 3.7 Iscritti già pensionati o assicurati presso altre forme previdenziali obbligatorie 
 I soggetti già pensionati o iscritti ad altre forme di previdenza obbligatoria, sono tenuti a versare una 
@@ -2103,15 +2051,14 @@ rivalersi per euro 393,40 sul compenso da riconoscere al lavoratore.
 3.10 Calcolo INPS: lavoratore iscritto ad altra forma previdenziale o pensionato 
 Riprendendo l’esempio precedente (compenso 8.500,00 euro) ed ipotizzando il caso di un lavoratore autonomo 
 iscritto ad altra forma previdenziale o pensionato, noteremo che il peso contributivo è inferiore, posto che 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            54  
+ 
+                                                                                            54  
  
 l’aliquota INPS complessiva è del 24% in luogo del 33,72%. 
 DI conseguenza, fermo restando che la base imponibile è ancora pari ad euro 8.500 – 5.000 = 3.500 euro, gli 
@@ -2143,15 +2090,14 @@ Il documento dev’essere trasmesso anche se il saldo è pari a zero ed eventual
 compensati in occasione di versamenti successivi. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            55  
+ 
+                                                                                            55  
  
 I pagamenti contributi INPS e imposte da parte di soggetti titolari di partita IVA devono avvenire 
 esclusivamente per via telematica: 
@@ -2185,15 +2131,14 @@ riportati:
 • 
 “Codice sede” con le quattro cifre che identificano la sede territoriale INPS di riferimento del 
 committente; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            56  
+ 
+                                                                                            56  
  
 • 
 All’interno del campo “Causale contributo” il codice “C10” per coloro che sono già pensionati o iscritti 
@@ -2234,15 +2179,14 @@ Cumuli”;
 Aumentare le informazioni a disposizione dell’INPS. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            57  
+ 
+                                                                                            57  
  
 In particolare il modello EMENS consisteva in un flusso telematico tramite cui i sostituti d’imposta tenuti al 
 rilascio delle Certificazioni Uniche (CU) trasmettevano agli enti previdenziali i dati retributivi riguardanti: 
@@ -2285,15 +2229,14 @@ Tipo di rapporto;
 Aliquota; 
 • 
 Altra assicurazione; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            58  
+ 
+                                                                                            58  
  
 • 
 Data di inizio e fine attività; 
@@ -2336,15 +2279,14 @@ giuridica (soppresso dalle denunce di luglio 2009);
 1D, Liquidatore di società; 
 • 
 02, Collaboratore di giornali, riviste, enciclopedie e simili; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            59  
+ 
+                                                                                            59  
  
 • 
 03, Partecipante a collegi e commissioni; 
@@ -2401,15 +2343,14 @@ riportata nel campo <Aliquota> ed espressa in centesimi:
 • 
 “2400” in corrispondenza dell’aliquota ridotta al 24% per i soggetti già pensionati o iscritti ad altre 
 forme di previdenza obbligatoria; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            60  
+ 
+                                                                                            60  
  
 • 
 “3372” per gli iscritti in via esclusiva alla Gestione Separata con aliquota complessiva al 33,72%. 
@@ -2476,15 +2417,14 @@ Il campo <AltraAss> dovrà pertanto essere popolato con il codice:
 319 Agrotecnici, Periti Agrari; 
 • 
 320 Giornalisti; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            61  
+ 
+                                                                                            61  
  
 • 
 321 Spedizionieri (sino al 31 dicembre 1997); 
@@ -2526,15 +2466,14 @@ codici:
 003 per l’Università; 
 • 
 004 per la certificazione effettuata dagli enti bilaterali. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            62  
+ 
+                                                                                            62  
  
 3.16.7 Agevolazioni 
 Eventuali agevolazioni contributive riguardanti il versamento alla Gestione Separata dovranno essere riportate 
@@ -2576,15 +2515,14 @@ Verifica posizioni aziendali e prelievo delle caratteristiche contributive;
 Controlli estesi; 
 • 
 Zippatura, crittografia e firma digitale. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            63  
+ 
+                                                                                            63  
  
 Nel caso in cui tutte le procedure sopra elencate diano esito positivo, il software genererà il file da caricare sul 
 sito INPS per l’invio, con estensione “UniEM”. 
@@ -2593,7 +2531,6 @@ consulenti” e l’inserimento delle credenziali SPID, CIE o CNS.
 L’invio del file UniEmens avviene selezionando dal menù principale “UNIEMENS – Invio Denunce Individuali”. 
 A trasmissione avvenuta il sistema produce una ricevuta (scaricabile in pdf) con indicato il debito nei confronti 
 dell’INPS – Gestione Separata. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
@@ -2629,15 +2566,14 @@ Al contrario, per le malattie che configurino una continuazione o una ricaduta r
 (di durata inferiore a quattro giorni) l’indennizzo (Circolare INPS 13 maggio 2013 numero 77) è “previsto per 
 l’intera durata dell’evento, compresi i primi 3 giorni”. 
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            65  
+ 
+                                                                                            65  
  
 4.1.1 Requisiti 
 L’indennità di malattia viene corrisposta a condizione che: 
@@ -2668,15 +2604,14 @@ Tutte le giornate di malattia, comprese le festività, sono indennizzabili dall�
 limite previsto per evento o anno solare. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            66  
+ 
+                                                                                            66  
  
 4.1.4 Misura 
 L’importo riconosciuto dalla Gestione Separata è determinato in misura pari ad una percentuale graduata in 
@@ -2714,15 +2649,14 @@ Una copia cartacea del certificato di malattia alla struttura INPS territorialme
 • 
 L’attestato di malattia (cartaceo) al committente, privo della diagnosi. 
 Eventuali omissioni nell’invio della documentazione comportano la perdita dell’indennità, per ogni giorno di 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            67  
+ 
+                                                                                            67  
  
 ritardo oltre il termine previsto. 
 Un’eccezione è rappresentata dai certificati di ricovero (ma non di eventuali malattie post ricovero): per queste 
@@ -2755,15 +2689,14 @@ ospedaliera per iscritti alla Gestione Separata” per i soggetti in possesso de
 Alla domanda dev’essere inoltre allegata la documentazione a riprova della prestazione di lavoro autonomo 
 occasionale (ad esempio uno o più contratti) oltre alle dichiarazioni fiscali (Certificazione unica e / o 
 dichiarazione dei redditi). 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            68  
+ 
+                                                                                            68  
  
 In alternativa, la richiesta può essere trasmessa: 
 • 
@@ -2800,15 +2733,14 @@ Una volta trasmesso il certificato, è possibile modificare l’indirizzo:
 • 
 Comunicando tempestivamente il nuovo recapito al committente, con le modalità previste nel 
 contratto; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            69  
+ 
+                                                                                            69  
  
 • 
 Inoltrando apposita segnalazione all’INPS utilizzando il servizio disponibile sul portale dell’Istituto, 
@@ -2844,15 +2776,14 @@ Se il lavoratore non si reca alla visita ambulatoriale, l’INPS ne dà comunica
 lavoratore a fornire le proprie giustificazioni entro dieci giorni. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            70  
+ 
+                                                                                            70  
  
 4.1.11 Assenze giustificate 
 Le sanzioni economiche non vengono comminate in caso di: 
@@ -2894,15 +2825,14 @@ questione può essere svolta soltanto da apposite strutture sanitarie pubbliche 
 Grazie all’entrata in vigore dal 1° settembre 2017 del Polo unico per le visite fiscali, l’Istituto ha competenza 
 esclusiva in materia di Visite Mediche di Controllo (VMC), tanto su richiesta dei datori di lavoro – committenti 
 che d’ufficio. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            71  
+ 
+                                                                                            71  
  
 Relativamente agli eventi di durata inferiore a quattro giorni, la visita di controllo può avvenire esclusivamente 
 dietro richiesta del committente (e non d’ufficio). 
@@ -2938,15 +2868,14 @@ Cartelle cliniche;
 Relazioni mediche; 
 • 
 Accertamenti diagnostici; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            72  
+ 
+                                                                                            72  
  
 • 
 Qualsiasi altro elemento comprovante l’effettuazione della terapia antineoplastica ovvero la sussistenza 
@@ -2982,15 +2911,14 @@ Da 9 a 12 mensilità la percentuale è pari al 32%.
 4.2.3 Domanda 
 La richiesta di indennità dev’essere inviata in modalità telematica utilizzando il modello SR06, entro 180 giorni 
 dalle dimissioni, collegandosi al portale “inps.it – Prestazioni e Servizi – Prestazioni – Malattia e degenza 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            73  
+ 
+                                                                                            73  
  
 ospedaliera per iscritti alla Gestione Separata” per gli utenti in possesso delle credenziali SPID, CIE o CNS. 
 In alternativa è possibile utilizzare i seguenti canali: 
@@ -3026,15 +2954,14 @@ altre mansioni.
 4.3.1 Casi particolari 
 A fronte di un parto prematuro, in anticipo rispetto alla data presunta, ai giorni di maternità successivi al parto 
 si aggiungono quelli non goduti prima del parto stesso. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            74  
+ 
+                                                                                            74  
  
 Al contrario, in caso di “parto fortemente prematuro” avvenuto in data antecedente i due mesi precedenti la 
 data presunta del parto, il congedo si determina sommando ai tre mesi post-partum tutti i giorni compresi tra 
@@ -3073,15 +3000,14 @@ Morte o grave infermità della madre;
 Abbandono del figlio da parte della madre; 
 • 
 Affidamento esclusivo del figlio al solo padre. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            75  
+ 
+                                                                                            75  
  
 4.3.4 Requisiti 
 La madre ha diritto all’indennità INPS alle seguenti condizioni: 
@@ -3117,15 +3043,14 @@ Trasmettere all’INPS, prima del periodo interessato dal congedo di maternità,
 gravidanza per il tramite di un medico del Servizio Sanitario Nazionale o con esso convenzionato; 
 • 
 Comunicare all’INPS la data di nascita del figlio e le relative generalità entro trenta giorni dal parto. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            76  
+ 
+                                                                                            76  
  
 4.3.7 Importo 
 L’indennità giornaliera INPS è calcolata in misura pari all’80% di 1/365 del reddito: 
@@ -3161,15 +3086,14 @@ Articolazione dell’orario di lavoro.
 La documentazione sanitaria sarà poi allegata in sede di richiesta di differimento da presentare al committente. 
 All’INPS si dovrà solo comunicare la scelta di avvalersi della flessibilità. 
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            77  
+ 
+                                                                                            77  
  
 4.3.9 Posticipo 
 È altresì possibile posticipare l’astensione ai cinque mesi post-parto, a patto, anche in questo caso, che il 
@@ -3202,15 +3126,14 @@ Interessate dalla misura sono:
 Lavoratrici iscritte alla Gestione Separata INPS (articolo 64 Decreto legislativo 26 marzo 2001 numero 
 151) tra cui i titolari di rapporti di collaborazione coordinata e continuativa oltre ad incarichi di lavoro 
 autonomo occasionale; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            78  
+ 
+                                                                                            78  
  
 • 
 Lavoratrici iscritte alle Gestioni autonome INPS (articolo 66 D.lgs. n. 151/2001) quali artigiane, 
@@ -3252,15 +3175,14 @@ al 1° gennaio 2022 e siano parzialmente ricadenti nella vigenza della citata le
 • 
 Non possono invece essere indennizzate se la maternità / paternità si è conclusa prima del 1° gennaio 
 2022. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            79  
+ 
+                                                                                            79  
  
 In merito alle modalità di presentazione delle istanze per accedere all’estensione dell’indennità, l’INPS si riserva 
 con successivo messaggio di fornire indicazioni “sul rilascio delle implementazioni della domanda telematica”. 
@@ -3296,15 +3218,14 @@ lettera b Decreto legge 3 settembre 2019 numero 101 convertito con modificazioni
 numero 128), hanno diritto ad un trattamento economico per congedo parentale (pagato direttamente 
 dall’INPS) nel limite di tre mesi per ciascun genitore entro i primi dodici anni di vita del bambino. Entro lo 
 stesso termine i genitori sono destinatari, in alternativa tra loro, di ulteriori tre mesi di congedo. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            80  
+ 
+                                                                                            80  
  
 L’istituto è stato ritoccato a norma del Decreto legislativo 30 giugno 2022 numero 105 pubblicato nella Gazzetta 
 ufficiale del 29 luglio 2022 numero 176, in vigore dal 13 agosto 2022, adottato in attuazione della Direttiva 
@@ -3336,15 +3257,14 @@ Il congedo parentale è fruibile nel rispetto del limite complessivo tra entramb
 conteggio si sommano anche i periodi indennizzati fruiti dall’altro genitore iscritto in una Gestione o cassa 
 diversa dalla Gestione Separata. Sotto questo aspetto può accadere che il padre lavoratore dipendente fruisca 
 di sei mesi di congedo parentale. In tal caso, a beneficio della madre residuano tre mesi. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            81  
+ 
+                                                                                            81  
  
 Per meglio comprendere la portata delle modifiche, ecco una tabella fornita dalla Circolare Inps del 27 ottobre 
 2022 numero 122: 
@@ -3393,19 +3313,17 @@ Sussista un rapporto di lavoro ancora in corso di validità;
 • 
 Il beneficiario di astenga effettivamente dall’attività lavorativa. 
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            82  
+ 
+                                                                                            82  
  
 4.4.4 Contribuzione figurativa 
 Per i periodi di congedo parentale è previsto l’accredito della contribuzione figurativa.   
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
@@ -3443,15 +3361,14 @@ determinazione del reddito di lavoro differisce, tuttavia, da quella del reddito
 abitualmente per il diverso criterio di imputazione delle spese sostenute per l’espletamento dell’incarico”. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            84  
+ 
+                                                                                            84  
  
 Nello specifico: 
 • 
@@ -3486,15 +3403,14 @@ ritenuta d’acconto a titolo di imposta sul reddito delle persone fisiche (IRPE
 A stabilirlo l’articolo 25 “Ritenuta sui redditi di lavoro autonomo e su altri redditi” contenuto nel Decreto del 
 Presidente della Repubblica del 29 settembre 1973 numero 600, in cui si prevede che i soggetti qualificati 
 come sostituti d’imposta ai sensi del precedente comma 1 articolo 23, i quali “corrispondono a soggetti residenti 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            85  
+ 
+                                                                                            85  
  
 nel territorio dello Stato compensi comunque denominati, anche sotto forma di partecipazione agli utili per 
 prestazioni di lavoro autonomo, ancorché non esercitate abitualmente ovvero siano rese a terzi o nell’interesse 
@@ -3532,15 +3448,14 @@ Repubblica del 29 settembre 1973 numero 600:
 Gli enti e le società indicati nell’articolo 87 comma 1 del TUIR; 
 • 
 Le società e le associazioni di cui all’articolo 5 TUIR; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            86  
+ 
+                                                                                            86  
  
 • 
 Le persone fisiche che esercitano imprese commerciali (articolo 51 TUIR) o agricole; 
@@ -3556,7 +3471,6 @@ dell’imposta sul reddito delle persone fisiche dovuta dai percipienti, con obb
  
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
@@ -3617,15 +3531,14 @@ Sezione INPS, codice tributo “CXX” euro 449,60 per contributi c/lavoratore +
 4.000 * 22,48%) per contributi c/committente. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            88  
+ 
+                                                                                            88  
  
 6.2 Lavoratore iscritto ad altre forme di previdenza obbligatorie 
 Discorso diverso in caso di lavoratore autonomo occasionale iscritto ad altre forme di previdenza obbligatorie, 
@@ -3651,7 +3564,6 @@ Sezione Erario, codice tributo 1040 euro 1.800,00 (ritenuta d’acconto);
 Sezione INPS, codice tributo “C10” euro 320,00 per contributi c/lavoratore + 640,00 (equivalenti a 
 4.000 * 16%) per contributi c/committente. 
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
@@ -3689,15 +3601,14 @@ rientranti nell’esercizio di arte o professione abituale ovvero 31 ottobre per
 esclusivamente redditi esenti o non dichiarabili mediante la dichiarazione dei redditi precompilata). 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            90  
+ 
+                                                                                            90  
  
 7.1.1 Termine 
 Come anticipato, i termini per l’invio dei modelli CU sintetico ed ordinario sono fissati al 16 marzo dell’anno 
@@ -3730,15 +3641,14 @@ Corrisposto contributi previdenziali ed assistenziali, nonché premi assicurativ
 Corrisposto somme e valori per i quali non è prevista alcuna ritenuta alla fonte ma la sola contribuzione 
 INPS (è il caso delle aziende straniere che occupano lavoratori italiani all’estero assicurati in Italia). 
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            91  
+ 
+                                                                                            91  
  
 7.1.4 Composizione 
 Le macro-sezioni che compongono il flusso telematico CU sono: 
@@ -3776,15 +3686,14 @@ occasionali.
  
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            92  
+ 
+                                                                                            92  
  
 7.1.8 Dati fiscali 
 Con riferimento alle risultanze fiscali nella Certificazione unica sono riportate: 
@@ -3833,15 +3742,14 @@ l’obbligo di iscrizione alla Gestione Separata (Circ. INPS n. 104/2001)”;
 • 
 Causale “O1 – redditi derivanti dall’assunzione di obblighi di fare, di non fare o permettere, per le quali 
 non sussiste l’obbligo di iscrizione alla Gestione Separata (Circ. INPS n. 104/2001)”; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            93  
+ 
+                                                                                            93  
  
 • 
 Causale “V - provvigioni corrisposte a incaricato per le vendite a domicilio; provvigioni corrisposte a 
@@ -3887,15 +3795,14 @@ normativa di riferimento;
 • 
 39 l’ammontare dei contributi effettivamente versati dal sostituto d’imposta all’Ente previdenziale 
 competente. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            94  
+ 
+                                                                                            94  
  
 7.2 Modello 770 
 I sostituti d’imposta hanno l’obbligo di comunicare attraverso l’invio telematico all’Agenzia entrate del modello 
@@ -3938,15 +3845,14 @@ Enti commerciali equiparati alle società di capitali residenti nel territorio d
 • 
 Enti non commerciali (enti privati non aventi per oggetto esclusivo o principale l’esercizio di attività 
 commerciali) residenti nel territorio dello Stato; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            95  
+ 
+                                                                                            95  
  
 • 
 Le associazioni non riconosciute, i consorzi, le aziende speciali e le altre organizzazioni non 
@@ -3996,15 +3902,14 @@ Ai fini dell’invio fa fede il giorno in cui si conclude la ricezione dei dati 
 La prova della presentazione del modello è data dalla comunicazione attestante l’avvenuto ricevimento dei 
 dati, rilasciata in via telematica. 
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            96  
+ 
+                                                                                            96  
  
 7.2.3 Composizione 
 Oltre al frontespizio, le sezioni di cui si compone il modello 770 sono rappresentate, tra gli altri, dai seguenti 
@@ -4047,15 +3952,14 @@ del D.P.R. n. 600 del 1973, sulle somme e valori corrisposti entro il 12 gennaio
 le ritenute operate a seguito di conguaglio di fine anno effettuato nei primi due mesi del 2025”. 
 In particolare, la prima sezione dev’essere utilizzata per indicare i “dati relativi alle ritenute alla fonte operate 
 e per assistenza fiscale effettuata” oltre ai versamenti relativi a ritenute ed imposte sostitutive. 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            97  
+ 
+                                                                                            97  
  
 La seconda sezione dev’essere utilizzata per riportare i dati relativi alle “trattenute di addizionale regionale 
 all’IRPEF comprese quelle effettuate in sede di assistenza fiscale, nonché per esporre tutti i relativi versamenti”. 
@@ -4090,15 +3994,14 @@ Il prospetto SY ospita i dati relativi a:
 • 
 Somme liquidate a seguito di procedure di pignoramento presso terzi di cui all’articolo 21, comma 15 
 della Legge 27 dicembre 1997 numero 449; 
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
 
 ---
 
-PAOLO BALLANTI – LAVORO AUTONOMO OCCASIONALE 
  
  
  
-E Book – Collana I PRATICI di Fiscoetasse                                                                                            98  
+ 
+                                                                                            98  
  
 • 
 Ritenute operate ai sensi dell’articolo 25 del Decreto legge 31 maggio 2010 numero 78 convertito con 
@@ -4107,4 +4010,4 @@ modificazioni dalla Legge 30 luglio 2010 numero 122;
 Somme corrisposte a percipienti esteri privi di codice fiscale. 
  
  
-Scaricato da FISCOeTASSE.com il 21/01/2026 da Vincenzo Montrone  montronevincenzo@gmail.com
+
