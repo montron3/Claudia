@@ -74,6 +74,37 @@ Ti iscrivi alla Gestione Separata **una sola volta nella vita**. Se negli anni s
 
 ---
 
+## 💰 Quanto si paga di contributi INPS?
+
+I contributi si pagano **solo sulla parte che supera i 5.000 euro**.
+
+### Aliquote per il 2025:
+
+#### Se NON sei pensionato e NON sei già iscritto ad altra forma previdenziale:
+- **Aliquota totale: 33,72%**
+  - 11,24% a carico tuo (1/3)
+  - 22,48% a carico del committente (2/3)
+
+#### Se sei GIÀ pensionato o iscritto ad altra forma previdenziale:
+- **Aliquota ridotta: 24%**
+  - 8% a carico tuo (1/3)
+  - 16% a carico del committente (2/3)
+
+### Esempio di calcolo:
+
+**Situazione:** Hai guadagnato 8.500 euro nell'anno e NON sei pensionato
+
+1. **Parte esente:** 5.000 euro (nessun contributo)
+2. **Parte soggetta a contributi:** 8.500 - 5.000 = 3.500 euro
+3. **Calcolo contributi su 3.500 euro:**
+   - Tu paghi: 3.500 × 11,24% = 393,40 euro
+   - Il committente paga: 3.500 × 22,48% = 786,80 euro
+   - **Totale contributi INPS:** 1.180,20 euro
+
+**In pratica ricevi:** 8.500 - 393,40 = 8.106,60 euro (al netto dei contributi ma al lordo della ritenuta fiscale del 20%)
+
+---
+
 ## 📝 I tuoi obblighi come lavoratore
 
 ### Quando inizi un nuovo lavoro occasionale:
@@ -135,7 +166,10 @@ A: Sì! L'esenzione è solo sui **contributi previdenziali**. Le tasse (IRPEF) s
 A: Resti iscritto all'INPS, ma non paghi contributi se sei sotto i 5.000 euro.
 
 **Q: Chi paga i contributi INPS?**  
-A: Parte li paghi tu (circa 25-26% del compenso) e parte li paga il committente (circa 2%). Il committente trattiene la tua parte dal compenso e versa tutto insieme.
+A: I contributi sono divisi:
+- **1/3 a carico tuo** (lavoratore): 11,24% se non sei già pensionato o iscritto ad altra forma previdenziale, oppure 8% se sei già pensionato o iscritto ad altra forma previdenziale
+- **2/3 a carico del committente**: 22,48% o 16% a seconda del caso
+- Il committente trattiene la tua parte dal compenso e versa tutto insieme all'INPS
 
 **Q: Cosa succede se non mi iscrivo all'INPS quando supero i 5.000 euro?**  
 A: Rischi sanzioni amministrative e dovrai comunque pagare i contributi arretrati.
