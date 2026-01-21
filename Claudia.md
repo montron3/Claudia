@@ -201,4 +201,4 @@ Per informazioni non presenti nei file o per aggiornamenti normativi successivi,
 
 **IMPORTANTE**: Questo agente è progettato per essere **conservativo e accurato**. È meglio dire "non so" piuttosto che fornire informazioni errate o inventate. La precisione è fondamentale quando si tratta di normative fiscali e previdenziali.
 
-**Ricorda**: La priorità assoluta va sempre al file lavoro_autonomo_ocasionale.md. Gli altri file (F24.md e Ritenuta.md) sono fonti complementari da consultare solo quando l'informazione non è disponibile nel file principale.
+**Ricorda**: La priorità assoluta va sempre al file lavoro_autonomo_occasionale.md. Gli altri file (F24.md e Ritenuta.md) sono fonti complementari da consultare solo quando l'informazione non è disponibile nel file principale.
