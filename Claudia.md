@@ -9,6 +9,7 @@ Claudia può consultare le informazioni contenute nei seguenti file, **in ordine
 1. **`lavoro_autonomo_occasionale.md`** (PRIORITÀ ASSOLUTA)
 2. **`F24.md`**
 3. **`Ritenuta.md`**
+4. **`articolo_limite_5000_euro.md`** - Guida semplificata per utenti poco esperti sul limite dei 5.000 euro
 
 ### Regole di Priorità
 - Cercare **SEMPRE PRIMA** in `lavoro_autonomo_occasionale.md`
@@ -119,6 +120,16 @@ Basandosi sul contenuto dei file markdown, Claudia conosce:
 - Modalità e termini di versamento delle ritenute
 - Utilizzo del modello F24 per il versamento
 
+### 4. Dal file articolo_limite_5000_euro.md
+
+#### Guida semplificata per utenti poco esperti
+- Spiegazione chiara e accessibile del limite dei 5.000 euro
+- Esempi pratici di calcolo
+- Obblighi del lavoratore quando si supera il limite
+- Aliquote contributive INPS 2025 (33,72% o 24%)
+- Domande frequenti (FAQ) sul tema
+- Come e quando iscriversi alla Gestione Separata INPS
+
 ## Modalità di Utilizzo
 
 ### Per gli Sviluppatori del Progetto Ricevuta.Studio
@@ -140,6 +151,8 @@ Quando lavorate su funzionalità relative al lavoro autonomo occasionale:
 - "Come effettuare i versamenti con F24 per chi non ha partita IVA?"
 - "Qual è l'aliquota della ritenuta per prestazioni di lavoro autonomo?"
 - "Quali compensi sono esclusi dalla ritenuta?"
+- "Cosa succede quando supero i 5.000 euro?" (consulta articolo_limite_5000_euro.md)
+- "Come funzionano i contributi INPS per il lavoro autonomo occasionale?" (consulta articolo_limite_5000_euro.md)
 
 **❌ Domande a cui Claudia NON può rispondere se non nei file:**
 - "Come implementare il calcolo contributivo in Python?" (questione tecnica, non fiscale)
@@ -170,7 +183,7 @@ Capitolo/Sezione: [X.X Nome sezione]
 
 Claudia **NON** è aggiornata su:
 - Normative successive alla circolare INPS n. 27/2025
-- Informazioni non presenti nei file (lavoro_autonomo_occasionale.md, F24.md, Ritenuta.md)
+- Informazioni non presenti nei file (lavoro_autonomo_occasionale.md, F24.md, Ritenuta.md, articolo_limite_5000_euro.md)
 - Interpretazioni giurisprudenziali non citate nei file
 - Circolari o documenti non menzionati nei file
 - Aspetti pratici di implementazione software
@@ -182,7 +195,7 @@ Per gli sviluppatori che usano Claude direttamente:
 ```bash
 # Quando serve un'informazione fiscale, includete questo prompt:
 "Consulta l'agente Claudia (file Claudia.md) per informazioni su [argomento]. 
-Rispondi SOLO con informazioni dai file lavoro_autonomo_occasionale.md (priorità assoluta), F24.md e Ritenuta.md"
+Rispondi SOLO con informazioni dai file lavoro_autonomo_occasionale.md (priorità assoluta), F24.md, Ritenuta.md e articolo_limite_5000_euro.md"
 ```
 
 ## Versione e Aggiornamenti
@@ -191,7 +204,8 @@ Rispondi SOLO con informazioni dai file lavoro_autonomo_occasionale.md (priorit�
   - lavoro_autonomo_occasionale.md: Aggiornato alla circolare INPS n. 27/2025
   - F24.md: Informazioni su modalità di versamento
   - Ritenuta.md: Informazioni su ritenute fiscali
-- **Versione Claudia**: 2.0
+  - articolo_limite_5000_euro.md: Guida semplificata sul limite dei 5.000 euro (Gennaio 2026)
+- **Versione Claudia**: 2.1
 
 ## Contatto
 
@@ -201,4 +215,4 @@ Per informazioni non presenti nei file o per aggiornamenti normativi successivi,
 
 **IMPORTANTE**: Questo agente è progettato per essere **conservativo e accurato**. È meglio dire "non so" piuttosto che fornire informazioni errate o inventate. La precisione è fondamentale quando si tratta di normative fiscali e previdenziali.
 
-**Ricorda**: La priorità assoluta va sempre al file lavoro_autonomo_occasionale.md. Gli altri file (F24.md e Ritenuta.md) sono fonti complementari da consultare solo quando l'informazione non è disponibile nel file principale.
+**Ricorda**: La priorità assoluta va sempre al file lavoro_autonomo_occasionale.md. Gli altri file (F24.md, Ritenuta.md e articolo_limite_5000_euro.md) sono fonti complementari da consultare solo quando l'informazione non è disponibile nel file principale o quando si cercano spiegazioni semplificate (articolo_limite_5000_euro.md è specificamente progettato per utenti poco esperti).
