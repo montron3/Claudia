@@ -3,6 +3,9 @@
 > **Documento generato da Claudia** - Esperta Fiscale per Ricevuta.Studio
 > Questo documento elenca tutte le informazioni **NON presenti** nei file sorgente che richiedono verifica con fonti ufficiali o consulenza professionale.
 
+> ⚠️ **AGGIORNAMENTO**: Tutte le domande di questo documento sono state analizzate seguendo le regole di Claudia.
+> Le risposte dettagliate, basate esclusivamente sui file di conoscenza disponibili, sono disponibili in **[RISPOSTE_CHIARIMENTI.md](RISPOSTE_CHIARIMENTI.md)**.
+
 ---
 
 ## 1. LIMITI E SOGLIE
