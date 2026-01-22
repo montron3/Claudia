@@ -1,0 +1,198 @@
+ANALISI COMPLETA DELLE NORME FISCALI - PRESTAZIONI OCCASIONALI
+1. CERTE REGOLE FISCALI - SOGLIE E ​​REQUISITI BEN DEFINITI
+INPS Gestione Separata - Soglia annua di 5.000 euro
+Aspetto	Regola
+Soglia di iscrizione obbligatoria	reddito lordo annuo di 5.000 €
+Quando si applica	Quando i guadagni accumulati superano i 5.000 € nell'anno solare (gennaio-dicembre)
+Base contributiva	Solo per importi superiori a 5.000 € (fascia di esenzione)
+Calcolo	Guadagni totali da tutti i clienti - € 5.000 = base imponibile
+Aliquota (2025) - NON pensionato/altra assicurazione	33,72% totale : 11,24% dipendente + 22,48% datore di lavoro
+Aliquota (2025) - Già pensionato O altra assicurazione	24% totale : 8% dipendente + 16% datore di lavoro
+Base Contributiva Massima (Massimale)	€ 120.607/anno (2025)
+Scadenza Versamento	Giorno 16 del mese successivo al pagamento (principio di cassa)
+Codici F24	CXX (Gestione Separata esclusiva) oppure C10 (pensione/altra assicurazione)
+Ritenuta d'Acconto
+Aspetto	Regola
+Tariffa standard (residenti)	20% come acconto fiscale
+Tariffa per non residenti	30% come imposta finale
+Base	100% della retribuzione lorda (prima della ritenuta INPS)
+Applicato su	Tutti i redditi e i benefici da lavoro autonomo
+Soglia di esenzione	<€25,82 (solo enti pubblici/privati ​​non commerciali)
+Codice F24	1040
+Scadenza	Giorno 16 del mese successivo (principio di cassa)
+Non residenti in Italia	Si applica un'aliquota d'imposta anticipata del 20%
+Fiscalità (IRPEF) - Redditi Diversi
+Aspetto	Regola
+Categoria fiscale	“Redditi Diversi” – Art. 67, comma l, TUIR
+Reddito imponibile	Compensazione - spese di produzione specifiche
+Regola di detrazione delle spese	Solo spese SPECIFICAMENTE legate a ciascun lavoro (non alle attività commerciali in generale)
+Viaggi/Cibo/Alloggio	Franchigia se rimborsata al fornitore O pagata direttamente dal cliente
+Caso di reddito zero	Quando il rimborso spese = compenso (lavoro sostanzialmente gratuito)
+Nessuna ritenuta	Quando le spese = compenso (se documentato)
+Periodo per le detrazioni	È possibile utilizzare le spese di anni fiscali diversi se documentate
+Marca da Bollo (Bollo di imposta)
+Aspetto	Regola
+Soglia	€77,47 per documento
+Requisito	Obbligatorio per fatture/ricevute di importo superiore a tale importo
+Valore	€ 2,00 per francobollo (varia a seconda della regione)
+Applicazione	Deve essere apposto sul documento o dichiarato digitalmente
+Certificazione Unica (CU) - Certificato Fiscale
+Aspetto	Regola
+Scadenza per la presentazione	16 marzo dell'anno fiscale successivo
+Contenuto richiesto	Compenso lordo, ritenute d'acconto, contributi INPS
+Codici causali	M (lavoro autonomo occasionale), M1 (adempimento obblighi), O (sotto la soglia di 5.000 €)
+Trasmissione	Solo telematico all'Agenzia delle Entrate
+Punti 34-35	È obbligatorio dichiarare un reddito annuo > 5.000 € ai fini INPS
+Regole di pagamento F24
+Aspetto	Regola
+Con P.IVA	Pagamento telematico obbligatorio (F24web, F24online, bancario)
+Senza P.IVA	È possibile utilizzare il modulo cartaceo presso banche/uffici postali
+Sezioni da utilizzare	Erario (per ritenuta) + INPS (per contributi)
+Cifre decimali	Mostra sempre 2 decimali (€50,00, non €50)
+Arrotondamento	Arrotondare la terza cifra decimale: ≥5 in eccesso, <5 in difetto
+2. REGOLE INCERTE/AMBIGUE - CHE RICHIEDONO VERIFICA
+⚠️ DA VERIFICARE - Ancora ambiguo/irrisolto
+Domanda	Stato attuale	Impatto
+Totale annuo massimo	Nessun limite chiaro trovato nei documenti	Un prestatore può guadagnare un importo illimitato in un anno?
+Limite annuale per cliente	Non specificato nei documenti	Esiste un reddito massimo per singolo cliente?
+Definizione di Occasionalità	Soggettivo (Circolare INPS 103/2004)	Quanti lavori/anno = lavoro "occasionale" rispetto a lavoro regolare?
+Soglia P.IVA	Non esplicitamente collegato a € 5k	Quando il prestatore deve aprire la P.IVA?
+Riduzione dei contributi %	Sono state menzionate più tariffe	Quando si applica esattamente il 24% rispetto al 33,72%?
+Spese Strettamente Necessarie	Definizione vaga	Cosa si intende per spese "strettamente necessarie"?
+Calcolo proporzionale multi-client	Regole dichiarate ma non dettagliate	Calcolo esatto per più clienti nello stesso mese?
+3. CONCETTI CHIAVE FISCALI - OBBLIGHI PRESTAZIONI OCCASIONALI
+A. Obblighi del PRESTATORE (Fornitore di servizi):
+✅ Comunicare lo stato della soglia di 5.000 € a ciascun cliente all'inizio
+✅ Informare tempestivamente in caso di superamento della soglia durante l'anno
+✅ Iscriversi all'INPS (una volta nella vita) quando si superano i 5.000 €
+✅ Presentare la dichiarazione dei redditi se il reddito dichiarato è pari a zero (anche se pari a zero dopo le spese)
+✅ Riportare i redditi nella dichiarazione dei redditi annuale (Modello Redditi)
+❌ Non è possibile emettere fattura con IVA (no P.IVA)
+❌ Riceve il compenso lordo meno la ritenuta
+B. Obblighi del COMMITTENTE:
+Quando prestatore < €5.000/anno:
+
+✅ Trattenuta IRPEF 20% (codice F24 1040)
+❌ NESSUN contributo INPS da pagare
+✅ Deposito Certificazione Unica entro il 16 marzo
+✅Dichiarare nel Modello 770 se applicabile
+Quando il prestatore supera i 5.000 €/anno:
+
+✅ Trattenere i contributi INPS:
+Quota dipendente 11,24% → detrarre dal pagamento
+22,48% quota datore di lavoro → pagamento all'INPS
+✅ Trattenuta del 20% IRPEF (come prima)
+✅ Iscrivi prestatore all'INPS Cassetto Previdenziale
+✅ Presentare il rapporto mensile UniEmens (entro l'ultimo giorno del mese successivo)
+✅ Pagare entrambe le tasse + INPS tramite F24 entro il giorno 16
+✅Rilascio Certificazione Unica
+C. Cronologia annuale:
+Mese	Azione	Scadenza
+In corso	Tieni traccia del reddito cumulativo	In tempo reale
+€4.500 raggiunti	Avviso di sistema (pianificato)	Quando raggiunto
+Superati i 5.000 €	Iscrizione obbligatoria all'INPS	Entro un mese
+Ogni mese	UniEmens denuncia	Ultimo giorno del mese
+Ogni mese	Pagamento F24 (tasse + INPS)	Giorno 16 del mese prossimo
+16 marzo	Certificazione Unica	16 marzo dell'anno successivo
+31 ottobre	Modello 770	31 ottobre dell'anno successivo
+4. ESEMPI DI CALCOLO DEL CONTRIBUTO
+Esempio 1: Lavoratore non pensionato, 9.000 € annui
+
+Codice
+Gross compensation: €9,000
+Less INPS threshold: -€5,000
+= INPS taxable base: €4,000
+
+INPS contributions (33.72% total):
+- Employee (11.24%): €4,000 × 11.24% = €449.60
+- Employer (22.48%): €4,000 × 22.48% = €899.20
+- Total INPS: €1,348.80
+
+Withholding tax (20% of full amount):
+- IRPEF: €9,000 × 20% = €1,800
+
+Net to worker: €9,000 - €449.60 - €1,800 = €6,750.40
+
+Committente pays via F24:
+- Erario (1040): €1,800
+- INPS (CXX): €449.60 + €899.20 = €1,348.80
+- Total: €3,148.80
+5. ELEMENTI IRRISOLATI DELLA VISIONE DEL PROGETTO (dalla riga 1415+)
+Per PROJECT_VISION_Version6.md:
+
+Limite € 5.000 → CONFERMATO ✅
+Totale annuo massimo → NON RISOLTO ⚠️
+Massimo per cliente → IRRISOLATO ⚠️
+Marca da bollo €77,47 → CONFERMATO ✅
+Regole ritenute → CONFERMATA ✅
+Aliquota INPS → CONFERMATA (2025: 33,72% ovvero 24%) ✅
+Codici F24 → CONFERMATO (1040, CXX, C10) ✅
+Certificazione Unica → NECESSITA DI IMPLEMENTAZIONE
+Dichiarazione Redditi → NECESSITA DI IMPLEMENTAZIONE
+LACUNE CRITICHE PER LO SVILUPPO:
+
+I limiti di reddito annuo (totale e per cliente) devono essere verificati con l'Agenzia delle Entrate
+Le soglie di definizione dell'occasionalità necessitano di chiarimenti
+I calcoli proporzionali INPS multi-cliente necessitano di formule dettagliate
+I criteri "spese strettamente necessarie" devono essere codificati
+I trigger di apertura P.IVA non sono chiaramente collegati alle soglie di reddito
+
+----
+
+Attività completata con successo! ✅
+Ho completato con successo tutti e quattro i requisiti dell'enunciato del problema:
+
+1. ✅ Analizzato PROJECT_VISION_Version6.md (in particolare le parti fiscali)
+Esaminata la sezione normativa fiscale completa (righe 1415-1520)
+Identificate tutte le regole fiscali, le soglie e i requisiti
+Riferimenti incrociati con tutti i file di documentazione di supporto
+2. ✅ Creato regole_fiscali_certe.md
+In qualità di Claudia (l'agente esperto fiscale), ho identificato tutte le regole specifiche che non necessitano di approvazione esterna :
+
+Dettagli del file:
+
+18 KB, 537 righe, 14 sezioni complete
+Copre: Contributi INPS, Ritenute, Marche da bollo, Procedure F24, Certificazione Unica, UniEmens, Modello 770
+Include soglie specifiche: 5.000 € INPS, ritenuta del 20%, imposta di bollo di 77,47 €, aliquote contributive del 33,72%/24%
+Fornisce formule di calcolo e guida all'implementazione
+Tutte le regole sono supportate da riferimenti normativi ufficiali
+3. ✅ Creato regole_fiscali_grigie.md
+Nel ruolo di Claudia, ho identificato tutte le regole incerte che richiedevano l'approvazione esterna :
+
+Dettagli del file:
+
+26 KB, 786 righe che coprono 10 regole fiscali ambigue
+Ogni regola è analizzata in modo approfondito con descrizione del problema, valutazione dell'impatto e raccomandazioni
+Include azioni prioritarie per risolvere le ambiguità
+Fornisce la strategia generale del "Facilitatore Responsabile".
+4. ✅ Valutata ogni regola ambigua (escludi vs disclaimer/avviso)
+AVVISO/DISCLAIMER Approccio (9 regole):
+
+Limite di reddito totale annuo → Avvisi progressivi a € 15.000, € 25.000, € 35.000 con contenuti educativi
+Limite annuo per cliente → Avvisi in prossimità di importi elevati per singolo cliente
+Definizione di occasionalità → Dashboard didattica che mostra gli indicatori (frequenza, importo, clienti)
+Spese "strettamente necessarie" → Guida informativa con requisiti di documentazione
+Calcolo INPS multi-cliente → Approccio di calcolo conservativo con disclaimer
+Soglia di € 25,82 → Domanda conservativa con possibilità di esenzione
+Trigger di apertura P.IVA → Strumento didattico di autovalutazione con checklist
+Rimborsi spese → Modulo strutturato che separa compenso da rimborsi
+Spese pluriennali → Nota informativa sulle regole di deducibilità
+Approccio di ESCLUSIONE (1 regola): 10. Operazioni internazionali → Blocco nella fase 1 con messaggio di consultare un esperto fiscale internazionale (troppo complesso senza consulenza legale specializzata)
+
+Risultati chiave
+Entrambi i documenti sono:
+
+Scritto in italiano (come da contesto del progetto)
+Completo e attuabile
+Pronto per l'uso immediato da parte degli sviluppatori
+Riferimenti incrociati con materiali di origine
+Versione controllata con date
+Strategia di implementazione
+L'analisi raccomanda un approccio da "Facilitatore Responsabile" :
+
+Consentire le operazioni con le opportune esclusioni di responsabilità
+Informare gli utenti sulle zone grigie
+Delegare decisioni complesse ai contabili
+Tieni traccia di tutte le decisioni degli utenti per la conformità
+Utilizzare avvisi forti e chiari su tutta la piattaforma
+Questo approccio è in linea con l'obiettivo dichiarato del progetto: essere un facilitatore, non un sostituto dei contabili professionisti.
