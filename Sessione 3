@@ -1,0 +1,278 @@
+📊 RIASSUNTO COMPLETO: Progetto ricevuta.studio
+🎯 VISIONE E SCOPO FONDAMENTALI
+ricevuta.studio è una piattaforma SaaS progettata per semplificare e semplificare la creazione di fatture (ricevute) per lavoro autonomo occasionale in Italia. La missione principale della piattaforma è aiutare i liberi professionisti e i lavoratori occasionali a superare l'ansia burocratica fornendo:
+
+Generazione automatizzata di documenti secondo le attuali normative fiscali italiane
+Guida chiara e dettagliata sugli obblighi fiscali e previdenziali complessi
+Un approccio "facilitatore" che consente agli utenti di gestire collaborazioni occasionali in modo indipendente, sottolineando al contempo la verifica professionale
+Tagline : "prestazione occasionale facile" (prestazioni occasionali rese facili)
+
+👥 PUBBLICO DI RIFERIMENTO E LE SUE ESIGENZE
+La piattaforma si rivolge a tre tipologie di utenti principali:
+
+Prestatore (Fornitore di servizi - Individuo)
+
+Liberi professionisti che offrono servizi occasionali cercando di evitare la complessità burocratica
+Esigenza: Generazione semplice della ricevuta con guida automatica alla conformità
+Punto dolente: la paura degli obblighi fiscali e delle soglie INPS poco chiare
+Committente (Cliente - Individuale o Aziendale)
+
+Clienti privati ​​o titolari di P.IVA che gestiscono collaborazioni occasionali
+Esigenza: gestione semplificata dei documenti (F24, CU, calcolo delle ritenute d'acconto)
+Punto dolente: evitare di affidarsi costantemente a consulenti commerciali per compiti semplici
+Commercialista (Consulente Commerciale)
+
+Professionisti fiscali che desiderano semplificare la gestione dei documenti dei clienti
+Necessità: Dashboard per rivedere, correggere e approvare i documenti generati
+Vantaggio: la piattaforma gestisce il lavoro ripetitivo; verifica e aggiunge valore
+🎨 PRINCIPI CHIAVE DI PROGETTAZIONE
+La piattaforma sottolinea:
+
+Minimalista e moderno : interfaccia pulita e ordinata che evita il sovraccarico di informazioni
+Rassicurante e accessibile : tono amichevole che riduce l'ansia per la complessità
+Trasparente : chiara indicazione delle certificazioni rispetto alle regole fiscali in area grigia
+Educativo : informa gli utenti sulle zone fiscali e su quando consultare i professionisti
+Tono di voce :
+
+✅ Cordiale, informale ("Ciao! Ecco come funziona...")
+✅ Linguaggio semplice senza eccessivo gergo
+❌ NON istituzionale o eccessivamente formale
+🏗️ CARATTERISTICHE PRINCIPALI
+1. Generazione di documenti di base
+Ricevute (Fatture) : Creazione automatizzata con calcoli di conformità
+Moduli F24 : Documenti di pagamento delle imposte con compilazione automatica del codice
+CU (Certificazione Unica) : Certificazione ufficiale per le autorità fiscali
+Tutti i documenti incorporano regole fiscali esatte documentate inregole_fiscali_certe.md
+2. Sezione Blog
+Contenuti didattici sulle norme fiscali e sulla guida della piattaforma
+Articoli ottimizzati per SEO con supporto markdown
+Molteplici modalità di visualizzazione: elenco con schede, singole pagine di articoli
+Funzionalità: ricerca, filtraggio per tag, articoli correlati, tempo di lettura
+3. Calcolatrice gratuita
+Accessibile senza registrazione
+Calcolo bidirezionale (lordo ↔ netto)
+Stima ritenuta d'acconto (20%) e contributi INPS
+Punto di ingresso accessibile per la scoperta della piattaforma
+4. Quattro dashboard specializzate
+a) Dashboard Prestatore (Fornitore di servizi)
+
+Tracker INPS da 5.000 € con barra di avanzamento visiva e avvisi a 4.500 €
+Elenco dei destinatari e panoramica dei guadagni annuali
+Indicatore della situazione fiscale che mostra lo stato attuale (occasionale vs. iscritto all'INPS)
+Calendario personalizzato delle scadenze fiscali
+Archivio delle marca da bollo con supporto OCR
+Statistiche e analisi (grafici dei guadagni mensili, cliente più frequente)
+Automazioni di modelli per clienti ricorrenti
+Monitoraggio del completamento dei documenti
+b) Dashboard Committente (Cliente)
+
+Elenco dei collaboratori e monitoraggio dei pagamenti
+Riepilogo delle ritenute alla fonte per trimestre/anno
+Visualizzazione budget vs. previsione (limite di budget facoltativo)
+Calendario dei pagamenti F24 con scadenze
+Controllo dello stato di conformità
+Statistiche dei collaboratori e modelli di automazione
+c) Dashboard Commercialista (Professionista Fiscale)
+
+Vista unificata multi-client
+Coda di revisione dei documenti con priorità
+Statistiche aggregate su tutti i clienti
+Calendario fiscale unificato per tutti i clienti
+Monitoraggio delle commissioni (incentivi di referral)
+Autorizzazione a modificare i codici F24 e CU prima della generazione
+Canale di comunicazione diretto con il cliente
+d) Sezione informativa (condivisa su tutte le dashboard)
+
+Avvisi in tempo reale per situazioni fiscali in zone grigie
+Avvisi progressivi a € 15.000, € 25.000, € 35.000+ fatturato annuo
+Indicazioni su quando consultare professionisti commerciali
+🎨 BRANDING E PALETTE DEI COLORI
+Logo : design minimalista e moderno (da creare)
+
+Colore primario : blu professionale (tonalità esatta da definire in fase di progettazione)
+Colori secondari e di accento : da definire nelle specifiche di progettazione
+Estetica generale : pulita, rassicurante, accessibile
+⚠️ STRUTTURA DEL TONO DI VOCE
+Principio fondamentale : "Facilitatore, non medico": la piattaforma educa e abilita senza sostituire il giudizio professionale
+
+Caratteristiche principali del messaggio:
+
+Riconoscere la complessità senza semplificare eccessivamente
+Informare progressivamente gli utenti sugli obblighi fiscali
+Fornire chiare dichiarazioni di esclusione di responsabilità che la verifica commerciale è essenziale
+Utilizzare un linguaggio amichevole per ridurre l'ansia legata alla burocrazia
+Siate trasparenti sui limiti della piattaforma e sulle aree grigie
+📋 CONSIDERAZIONI CRITICHE SULLA CONFORMITÀ
+Alcune regole fiscali (da regole_fiscali_certe.md)
+La piattaforma può implementare con sicurezza:
+
+Soglia INPS di 5.000 euro con tracciamento automatico
+ritenuta d'acconto standard del 20% (ritenuta)
+Requisito soglia imposta di bollo 77,47 €
+Aliquote specifiche di contribuzione INPS (33,72% o 24% a seconda dello status)
+Codice F24 1040 (ritenuta d'acconto) e CXX/C10 (contributi INPS)
+Generazione CU con codici di causalità corretti (M, M1, O)
+Obbligo di conservazione dei documenti di 10 anni
+Regole fiscali dell'area grigia (da regole_fiscali_grigie.md)
+La piattaforma deve gestire tramite avvisi e disclaimer , NON bloccando:
+
+Regola	Stato	Approccio alla piattaforma
+Limite massimo di fatturato annuo	Non definito	Avvisi progressivi a € 15.000, € 25.000, € 35.000+
+Limite per singolo cliente	Ambiguo	Avviso a 5.000 € (privato), 20.000 € (azienda)
+Definizione quantitativa di "occasionalità"	Non specificato	Dashboard che mostra gli indicatori di frequenza/cliente
+Definizione di spesa "strettamente necessaria"	Vago	Avviso informativo quando le spese ≈ il risarcimento
+Contributo INPS con più clienti	Poco dettagliato	Algoritmo conservativo + disclaimer
+Applicabilità dell'esenzione dalla ritenuta d'acconto di € 25,82	Non chiaro per gli individui	Si consiglia di applicare in modo conservativo
+Trigger di apertura P.IVA	Non definito con precisione	Strumento di autovalutazione educativa
+Casi di rimborso spese	Complesso	Modulo strutturato che separa compensazione e rimborso
+Deduzione delle spese pluriennali	Possibile	Nota informativa sulla corretta documentazione
+Transazioni internazionali	Complesso	BLOCCATO con messaggio educativo (Fase 1)
+🛡️ STRATEGIA DI CONFORMITÀ
+Filosofia di base : "Facilitatore responsabile"
+
+✅ Abilita le operazioni (non bloccare inutilmente)
+✅ Informare gli utenti sulle regole delle aree grigie
+✅ Fornire forti dichiarazioni di esclusione di responsabilità in situazioni complesse
+✅ Tieni traccia di tutte le decisioni degli utenti (conservazione per 10 anni)
+✅ Richiedi una conferma esplicita della comprensione dell'avviso
+Avvertenze principali :
+
+La piattaforma NON sostituisce la consulenza commerciale
+Tutti i documenti DEVONO essere verificati da professionisti prima dell'uso ufficiale
+La piattaforma potrebbe contenere errori nonostante l'attenta implementazione
+Gli utenti si assumono la piena responsabilità di tutti i documenti e dati
+Responsabilità dell'utente :
+
+Gli utenti devono fornire informazioni veritiere e complete
+L'utente deve consultare i professionisti quando compaiono avvisi di allarme
+Gli utenti sono gli unici responsabili dell'accuratezza dei dati e della conformità fiscale
+La piattaforma NON è responsabile per sanzioni, multe o conseguenze fiscali/legali
+🎯 AREE DI INTERESSE DELLE SPECIFICHE DI PROGETTAZIONE
+Per i documenti di specifica di progettazione, evidenziare:
+
+Chiarezza visiva per i dati fiscali
+
+Rendi il tracker della soglia di 5.000 € visivamente evidente
+Utilizzare la codifica a colori per la gravità dell'avviso (info → avviso → critico)
+Divulgazione progressiva: semplici inadempienze, dettagli complessi su richiesta
+Estetica rassicurante
+
+Ridurre al minimo la complessità visiva attraverso lo spazio bianco
+Utilizzare una tipografia amichevole e un linguaggio accessibile
+Indicare chiaramente i dati generati dal sistema rispetto a quelli inseriti dall'utente
+Credibilità professionale
+
+Design pulito e moderno che suggerisce affidabilità
+Chiarezza nella provenienza delle norme (documenti normativi di riferimento)
+Trasparenza sui limiti e sulle aree di incertezza
+Onboarding progressivo
+
+Prima transazione incentivata (gratuita o scontata)
+Wizard guidato per la selezione del ruolo (prestatore/committente/commercialista)
+Suggerimenti contestuali che spiegano i concetti fiscali
+Gerarchia modale
+
+Gli avvisi di conformità critici vengono visualizzati come finestre modali bloccanti
+L'utente deve confermare la comprensione prima di procedere
+Tutte le decisioni vengono monitorate a fini di audit
+💰 MODELLO DI BUSINESS (Ricavi)
+Modalità solo prestatore : commissione dello 0,8%
+Modalità solo impegno : commissione dell'1,3%.
+Entrambi registrati : 0,8% + 1,3% (2,1% combinato)
+Modalità Commercialista : 1,8% fisso (all-in)
+Prima transazione : gratuita (o scontata con Stripe)
+📈 MAPPA STRADALE
+Fase 1 (attuale): Italia - Fatturazione per lavori occasionali (MVP) Fase 2 : Espansione internazionale (Svizzera e Spagna sono considerate per il futuro) Fase 3 : App mobili (consolidamento post-web)
+
+CONCLUSIONE
+ricevuta.studio è una piattaforma progettata con cura che bilancia accessibilità e responsabilità . Il suo punto di forza è tradurre le complesse normative fiscali italiane in uno strumento intuitivo, pur mantenendo esplicite dichiarazioni di non responsabilità sui suoi limiti. Il design deve comunicare affidabilità attraverso la trasparenza , rendendo gli utenti a proprio agio nell'utilizzo della piattaforma, pur comprendendo la necessità di una convalida professionale prima dell'invio ufficiale.
+
+----
+
+✅ Attività completata - Documenti di specifica del progetto creati
+Ho completato con successo il compito creando documenti di specifiche di progettazione completi per ricevuta.studio basati su PROJECT_VISION_Version6.md e seguendo le linee guida di brand-designer.md, design-system-builder.md, ui-designer.md e ux-reviewer.md.
+
+📁 Prodotti finali creati
+6 file markdown completi nella /design-specs/directory:
+
+01-brand-identity.md (477 righe, 13 KB)
+
+Missione, personalità e posizionamento del marchio
+Palette di colori blu professionale (#2563EB)
+Sistema tipografico (Inter font)
+Linee guida per la voce del marchio (amichevole, informale)
+Identità visiva e principi del logo
+02-design-system-foundations.md (690 righe, 16 KB)
+
+Sistema di token di progettazione completa
+Libreria completa di componenti (pulsanti, moduli, schede, avvisi, navigazione, modali, ecc.)
+Sistema di griglia reattivo e punti di interruzione
+Standard di accessibilità (WCAG 2.1 AA)
+Stati dei componenti e linee guida di implementazione
+03-dashboard-designs.md (848 righe, 34 KB)
+
+4 specifiche complete del cruscotto :
+Dashboard del Prestatore (tracker INPS da 5.000 €, guadagni, scadenze, marca da bollo)
+Dashboard Committente (budget tracker, ritenute, calendario F24)
+Dashboard Commercialista (visualizzazione multi-cliente, coda di revisione)
+Dashboard di amministrazione (metriche, funnel di conversione, ricavi)
+Layout dei widget, adattamenti mobili, stati di vuoto/caricamento/errore
+04-blog-calculator-designs.md (1.038 righe, 34 KB)
+
+Sezione Blog : Homepage, schede articolo, filtri categoria, pagine articolo individuali, stile contenuto avanzato
+Calcolatrice gratuita : calcolatrice interattiva con input bidirezionale, calcoli in tempo reale, barra laterale didattica
+Componenti condivisi (navigazione, piè di pagina)
+Ottimizzazioni per dispositivi mobili
+05-ux-patterns-user-flows.md (869 righe, 45 KB)
+
+Flusso di autenticazione (collegamento magico)
+Procedura guidata di onboarding in 4 fasi
+Flusso di creazione della ricevuta principale (modulo multi-step)
+Modelli di notifica, gestione degli errori, modelli di ricerca
+Modelli specifici per dispositivi mobili, modelli di accessibilità
+Scorciatoie da tastiera e modelli di prestazioni
+README.md (424 righe, 13 KB)
+
+Indice principale e panoramica
+Riepilogo della filosofia del design
+Linee guida per l'implementazione
+Matrice di copertura
+Prossimi passi e piano di manutenzione
+🎨 Filosofia di progettazione implementata
+Le specifiche incarnano la visione del creatore di:
+
+✅ Minimalista ma rassicurante
+
+Layout puliti con ampio spazio bianco
+Tema blu professionale con colori semantici
+Ombre sottili e angoli arrotondati
+Concentrarsi sulla chiarezza piuttosto che sulla decorazione
+✅ Amichevole e accessibile
+
+Tono informale "tu" (non formale "lei")
+Spiegazioni chiare senza gergo
+Conformità all'accessibilità WCAG AA
+Design reattivo per dispositivi mobili
+✅ Trasparente ed educativo
+
+Chiari disclaimer sulle limitazioni della piattaforma
+Progressiva divulgazione della complessità
+Contenuti didattici e aiuto contestuale
+Onesti sulle aree grigie fiscali
+📊 Riepilogo della copertura
+Componente	Dettagli	Stato
+Blog	Homepage, articoli, categorie, contenuti ricchi	✅ Completo
+Calcolatrice	Strumento gratuito, input bidirezionale, calcolo in tempo reale	✅ Completo
+Dashboard Prestatore	9+ widget, tracker INPS, guadagni, scadenze	✅ Completo
+Dashboard Committente	Bilancio, ritenute, F24, collaboratori	✅ Completo
+Dashboard Commercialista	Multi-client, coda di revisione, calendario	✅ Completo
+Amministratore della dashboard	Metriche, funnel, ricavi, monitoraggio	✅ Completo
+Identità del marchio	Colori, tipografia, voce, principi del logo	✅ Completo
+Sistema di progettazione	Token, componenti, accessibilità	✅ Completo
+Modelli UX	Flussi, autenticazione, notifiche	✅ Completo
+📈 Produzione totale
+4.346 linee di specifiche di progettazione complete
+155 KB di documentazione dettagliata
+6 documenti interconnessi che coprono tutti gli aspetti
+Allineamento al 100% con la visione del progetto e i principi di progettazione
+Tutti i file vengono inviati e caricati nel repository nella /design-specs/directory, pronti per la fase di produzione della piattaforma ricevuta.studio.
